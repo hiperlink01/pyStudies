@@ -1,2 +1,2 @@
 # Python Studies
- Coding exercises on Python 
+ Coding exercises in Python 
